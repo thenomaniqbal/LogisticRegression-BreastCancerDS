@@ -1,12 +1,3 @@
-#------------------------------------------------------
-# Name      : Gogul Ilango
-# Purpose   : Implement Logistic Regression from scratch
-#             using python and numpy
-# Variants  : 1. LR without L2 regularization
-#             2. LR with L2 regularization
-# Libraries : numpy, scikit-learn
-#------------------------------------------------------
-
 # organize imports
 import numpy as np
 import pandas as pd
